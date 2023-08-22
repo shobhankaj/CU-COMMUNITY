@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../client"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"breadcrumbs.showProperties": false
+	}
+}
